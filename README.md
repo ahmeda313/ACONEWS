@@ -1,10 +1,10 @@
 # [Acowale](https://acowale.com/)  technical assessment
 
-# Install packages
+## Install packages
 ```
 npm i
 ```
-# Run
+## Run
 ```
 npm run dev
 ```
